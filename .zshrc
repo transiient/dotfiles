@@ -15,6 +15,7 @@ bindkey "^[[4~" end-of-line
 bindkey "^[[3~" delete-char
 bindkey "^[[1;5D" emacs-backward-word
 bindkey "^[[1;5C" emacs-forward-word
+bindkey "^H" backward-kill-word
 
 # Enable autocomplete
 autoload -Uz compinit promptinit
@@ -24,3 +25,6 @@ promptinit
 # Customise the prompt
 prompt='%(0?.%F{green}:)%f .%F{red}:( [%?]%f )%F{magenta}%S%n%s@%m %F{white}%1d%f %B>%b '
 RPROMPT='%F{yellow}%B%T%b %D{%Y-%m-%d}%f'
+
+# Aliases!
+alias '$'=sudo
