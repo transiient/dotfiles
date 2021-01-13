@@ -8,6 +8,10 @@ Includes common emacs-style bindings including Ctrl+< to go back 1 word, and Ctr
 
 `$` is also aliased to `sudo`, eg: `$ whoami`
 
+### Quick Copy
+
+`curl "https://raw.githubusercontent.com/sam-cross/dotfiles/master/.zshrc" -O ~/.zshrc`
+
 ## Ideas?
 
 Please use **Issues**!
