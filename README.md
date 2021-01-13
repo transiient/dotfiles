@@ -10,7 +10,7 @@ Includes common emacs-style bindings including Ctrl+< to go back 1 word, and Ctr
 
 ### Quick Copy
 
-`curl "https://raw.githubusercontent.com/sam-cross/dotfiles/master/.zshrc" -O ~/.zshrc`
+`curl "https://raw.githubusercontent.com/sam-cross/dotfiles/master/.zshrc" -o ~/.zshrc`
 
 ## Ideas?
 
