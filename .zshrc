@@ -24,7 +24,7 @@ promptinit
 
 # Customise the prompt
 prompt='%(0?.%F{green}:)%f .%F{red}:( [%?]%f )%F{magenta}%S%n%s@%m %F{white}%1d%f %B>%b '
-RPROMPT='%F{yellow}%B%T%b %D{%Y-%m-%d}%f'
+RPROMPT='%F{yellow}%B%T%b'
 
 # Aliases!
 alias '$'=sudo
