@@ -1,6 +1,6 @@
 # dotfiles
 
-These are my dotfiles, specifically designed for Arch Linux at the moment.
+Dotfiles I use.
 
 ## .zshrc
 
@@ -12,7 +12,7 @@ Includes common emacs-style bindings including Ctrl+< to go back 1 word, and Ctr
 
 ### Quick Copy
 
-`curl "https://raw.githubusercontent.com/sam-cross/dotfiles/master/.zshrc" -o ~/.zshrc`
+`curl "https://raw.githubusercontent.com/transiient/dotfiles/master/.zshrc" -o ~/.zshrc`
 
 ## Ideas?
 
