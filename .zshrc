@@ -30,4 +30,4 @@ RPROMPT='%(0?.%F{green}:)%f.%F{red}%?%f) %F{white}%h%f %F{grey}%T%f'
 alias '$'=sudo
 
 # Source vars file if it exists
-[ -f ~/.zshrc-vars ] && . ~/.zshrc-vars
+[ -f ~/.zshrc-vars ] && source ~/.zshrc-vars
